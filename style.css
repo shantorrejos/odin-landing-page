@@ -97,3 +97,34 @@ a {
     padding: 10px 30px;
     border-radius: 10px;
 }
+
+.section-two-text {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    margin: 60px;
+}
+
+.information-image {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.container-section-two {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    margin-bottom: 150px;
+}
+
+.cont{
+    max-width: 200px;
+}
+
+.subtext {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
