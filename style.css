@@ -148,3 +148,40 @@ a {
     margin: 0 20%;
 }
 
+
+.call-card {
+    display: flex;
+    background-color: #3882f6;
+    margin: 100px 15%;
+    padding: 50px 0;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+}
+
+.call-text{
+    margin-left: 15%;
+}
+
+.call-title {
+    font-size: 24px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.text {
+    margin: 0;
+}
+
+.call-button {
+    margin-right: 15%;
+    font-size: 24px;
+    color: white;
+    background-color: #3882f6;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px 30px;
+    font-weight: 900;
+}
