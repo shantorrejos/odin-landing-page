@@ -185,3 +185,13 @@ a {
     padding: 10px 30px;
     font-weight: 900;
 }
+
+.footer{
+    background-color: #1f2937;
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    font-size: 18px;
+}
