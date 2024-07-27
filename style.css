@@ -38,7 +38,7 @@ a {
 
 .header-links {
     display: flex;
-    gap: 10px;
+    gap: 40px;
     font-size: 18px;
     color: #E5E7EB;
     margin-right: 15%;
@@ -129,3 +129,22 @@ a {
     justify-content: center;
     text-align: center;
 }
+
+.section.three {
+    background: #E5E7EB;
+    padding: 150px;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.author {
+    font-style: normal;
+    text-align: end;
+    margin: 10px 20%;
+}
+
+.quote {
+    margin: 0 20%;
+}
+
